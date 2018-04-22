@@ -33,6 +33,7 @@ gem "paperclip", "~> 6.0.0"
 gem 'simple_form'
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
+gem 'devise'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
